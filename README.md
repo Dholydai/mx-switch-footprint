@@ -1,10 +1,9 @@
 # mx-switch-footprint
-Custom Cherry MX switch footprints for KiCad
+Custom Cherry MX switch footprints for KiCad needed for Post-Mecanical keyboards
 
-These footprints use the same format as the native Button_Switch_Keyboard.pretty KiCad library.
+Half of these footprints use the same format as the native Button_Switch_Keyboard.pretty KiCad library.
+Half of these footprints use the common non-native format.
 
-I moved The_Post-Mech_Praxis project to GitLab so these files might be added to the KiCad native library on GitLab.
-
-This repository will removed if KiCad does incorporate the footprints.
+This repository will removed if KiCad incorporates the footprints.
 
 Thank you GitHub, Dholydai
